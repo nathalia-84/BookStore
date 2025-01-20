@@ -66,7 +66,7 @@ O projeto foi desenvolvido utilizando o **Jetpack Compose**, um padrão mais uti
 
 ## Arquitetura do Projeto
 
-Baseando-se na estrutura apresentada, o projeto segue a arquitetura **MVVM (Model-View-ViewModel)**, que promove uma separação clara entre as camadas de dados, interface e lógica de apresentação. Essa abordagem facilita a manutenção, testabilidade e escalabilidade do código. A organização dos pacotes reflete essa arquitetura:
+O projeto segue a arquitetura **MVVM (Model-View-ViewModel)**, com a separação clara entre as camadas de dados, interface e lógica de apresentação. Essa abordagem facilita a manutenção, testabilidade e escalabilidade do código. A organização dos pacotes reflete essa arquitetura:
 
 - **db:** Contém as classes relacionadas ao banco de dados SQLite, como `AppDatabase` e `BookDao`.
 - **enums:** Define enumerações utilizadas no projeto, como rotas de navegação.
@@ -95,7 +95,7 @@ O projeto foi desenvolvido em grupo com os seguintes integrantes e respectivas c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/nathalia-84/BookStore.git
    ```
 2. Abra o projeto no **Android Studio**.
 3. Execute o aplicativo em um dispositivo ou emulador configurado.
