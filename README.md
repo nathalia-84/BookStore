@@ -29,7 +29,7 @@ O aplicativo desenvolvido trata-se de um sistema para gerenciamento de livros de
 - Exclusão de livros utilizando o identificador ISBN.
 - Sistema de login simples com opções de cadastro e redefinição de senha.
 
-O projeto foi desenvolvido utilizando o **Jetpack Compose**, um padrão moderno para construção de interfaces no Android, em substituição ao uso tradicional de XML.
+O projeto foi desenvolvido utilizando o **Jetpack Compose**, um padrão mais utilizado atualmente para construção de interfaces no Android, em substituição ao uso tradicional de XML.
 
 ## Funcionalidades do Aplicativo
 
